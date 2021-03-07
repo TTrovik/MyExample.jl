@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=QVmU29rCjaA (Chris Rackauckas)
+
 Use Juno
 Get Julia,
 Get Atom
@@ -23,5 +25,5 @@ Force push
 Now ok on GitHub
 Everything lives in the PkgName.jl file
 Back to editor - add extra file, include
-... 
-
+Set up testing
+...
