@@ -1,4 +1,5 @@
-https://www.youtube.com/watch?v=QVmU29rCjaA (Chris Rackauckas)
+<https://www.youtube.com/watch?v=QVmU29rCjaA> 
+Chris Rackauckas
 
 Use Juno
 Get Julia,
